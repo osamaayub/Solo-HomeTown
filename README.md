@@ -1,3 +1,6 @@
+
+          Solo HomeTown Project
+
 Solo project This was a 'from scratch' project as part of learning Frontend Web Dev from Scrimba.com after completing the basic HTML and CSS introduction section. The requirements were:
 
 Use the provided text and pictures about the instructor's hometown
